@@ -1,1 +1,1 @@
-This is my first Tech Degree project!
+This is Dave Harrison's Tech Degree Project 1.
